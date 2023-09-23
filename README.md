@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhanraj Pawar</h1>
 <h3 align="center">A passionate DEVOPS Engineer from India</h3>
+<img align="right" alt="Coding" width="540" height="540" src="https://64.media.tumblr.com/4e703a9d7b0d3a37bc080c9aa41aa217/2aed4788be5b2e62-0e/s540x810/f18e22143032de0771d8c5af6b4e2a9fb169e2a9.jpg">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=1hrishi9&label=Profile%20views&color=0e75b6&style=flat" alt="1hrishi9" /> </p>
 - 🔭 I’m currently working on **Three tier project**
 
 - 🌱 I’m currently learning **DEVOPS Tools**
