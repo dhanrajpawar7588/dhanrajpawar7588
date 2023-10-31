@@ -1,4 +1,4 @@
-![] https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.algoworks.com%2Fblog%2Ffuture-of-devops-technologies%2F&psig=AOvVaw3S6s-zpV8CQHc_vucBOoy7&ust=1698821153990000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDz3YzYn4IDFQAAAAAdAAAAABAU
+![] https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif
 <h1 align="center">Hi 👋, I'm Dhanraj Pawar</h1>
 <h3 align="center">A passionate DEVOPS Engineer from India</h3>
 <img align="right" alt="Coding" width="650" height="325" src="https://blog.edupassport.io/wp-content/uploads/2023/04/CR1-T414-31-03-2023-11_44_20_268-1.jpg">
